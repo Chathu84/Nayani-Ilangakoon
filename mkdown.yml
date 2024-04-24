@@ -13,7 +13,7 @@ copyright:
 
 # page tree
 
-Nav:
+nav:
   -Home: index.md
   -Projects:
     -Ecosystem transformations: 
