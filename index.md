@@ -6,6 +6,6 @@ Nayani Ilangakoon is a trained remote sensing scientist who applies her remote s
 
 # Positions
 
-# current projects
+# Current projects
 
 ## Postfire Carbon
