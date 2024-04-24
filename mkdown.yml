@@ -14,7 +14,7 @@ copyright:
 # page tree
 
 nav:
-  -Home: index.md
+  -Home: data/index.md
   -Projects:
     -Ecosystem transformations: 
   
