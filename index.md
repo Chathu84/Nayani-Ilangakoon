@@ -1,4 +1,6 @@
-**Nayani Ilangakoon** is a trained remote sensing scientist who applies her remote sensing knowledge to learn ecosystem processes better at different spatio-temporal scales. 
+# About me
+
+I am a trained remote sensing scientist who applies her remote sensing knowledge to learn ecosystem processes better at different spatio-temporal scales. 
 
 # Education
 - Ph.D. in Geosciences, Boise State University, Boise, ID, USA (2014-2020)
@@ -34,4 +36,22 @@ Conducted geological and geophysical mapping of earth resources (mineral sand, m
 
 **Twensday-03**: Lead a collaboratory effort to develop an early warning system to identify ecosystem transformation (forest to grass, scrub and shrublands) tipping points in the western US forest systems using earth observation data cube
 
-## Postfire Carbon
+# PROFESSIONAL AND ACADEMIC SKILLS
+- Remote Sensing
+	Technologies - lidar (full waveform and discrete return), hyperspectral, multispectral, SAR, and structure from motion photogrammetry
+	Platforms – Satellite, piloted airborne and unpiloted airborne systems (UAS), and terrestrial sensor platforms
+	End-to-end remote sensing project planning and execution from data collection to product development
+	Domain knowledge - Forest growth, plant functional types and traits, wildfires, drought, and carbon sequestration
+- GIS - Spatial analytics, algorithm development, geospatial data management, and data QA/QC
+- High Performance Computing and Cloud Computing - Remote Sensing big data analytics using super computers, AWS, Google Earth Engine, and Google Colab
+- Scientific Programing –
+	Python – Jupyter Notebook, PyCharm, Anaconda and arcpy, GDAL, OGR, shapely, geopandas packages
+	R – RStudio, R Notebook and R Markdown, and sf, terra, lidR, and raster packages
+	MATLAB – Signal Processing Toolbox and customized signal processing workflows
+- Remote Sensing and GIS software – ENVI, Esri ArcGIS suite of products, QGIS, GDAL/OGR, Agisoft Metashape, and Terrasolid
+- Collaboration Software – version control systems (Git), MS Teams, Trello, Slack, and Google docs
+- Field Data Collection – Hands on experience in operating Terrestrial Laser Scanners, Unmanned Aerial Systems (trained pilot), Spectroradiometer, LAI 2200 plant canopy analyzer, AccuPAR LP-80 Ceptometer, and RTK GPS systems
+- Organizing and Presentation Skills - Organizing and conducting workshops and presenting at conferences
+- Technical Writing - Writing and reviewing proposals, manuscripts, and blogs
+- Teaching - Introductory Remote Sensing and introductory Geology
+
