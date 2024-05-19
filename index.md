@@ -16,6 +16,7 @@
 
 **Research Assistant**, 2016- 2020: Boise State University, Boise, ID, USA
 - Developed and maintained full waveform lidar processing tools. Collected field data (shrub inventory and spectroscopy) and analyzed airborne full waveform lidar big data to characterize semi-arid vegetation structure (height, cover, volume), function (biomass, plant functional types), and diversity (richness, evenness, and divergence). Mentored graduate and undergraduate students in Geosciences and Computer Science.
+  
 **Research Assistant**, 2013- 2014: Bowling Green State University, OH, USA
 Oversaw the terrestrial laser scanner (TLS) and held workshops for faculty and students about TLS handling and data collection. Integrated TLS, field observations and Landsat data to scale up mapping functional traits (leaf area index) of a forested ecosystem.
 Geologist, 2011-2012: geological Survey and Mines Bureau, Sri Lanka
