@@ -1,5 +1,3 @@
-# Nayani Ilangakoon
-
 **Nayani Ilangakoon** is a trained remote sensing scientist who applies her remote sensing knowledge to learn ecosystem processes better at different spatio-temporal scales. 
 
 # Education
