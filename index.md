@@ -36,7 +36,7 @@ Conducted geological and geophysical mapping of earth resources (mineral sand, m
 
 **Twensday-03**: Lead a collaboratory effort to develop an early warning system to identify ecosystem transformation (forest to grass, scrub and shrublands) tipping points in the western US forest systems using earth observation data cube
 
-# PROFESSIONAL AND ACADEMIC SKILLS
+# Professional and academic skills
 - Remote Sensing
 	Technologies - lidar (full waveform and discrete return), hyperspectral, multispectral, SAR, and structure from motion photogrammetry
 	Platforms – Satellite, piloted airborne and unpiloted airborne systems (UAS), and terrestrial sensor platforms
