@@ -25,10 +25,15 @@ Conducted geological and geophysical mapping of earth resources (mineral sand, m
 
 # Current projects
 **Open Forest Observatory** – Develop Forest inventory using individual tree species and structural attributes from images collected from unpiloted aerial vehicles (UAVs). Test individual tree detection model transferability across site/vegetation conditions. Develop training modules to train the next generation of scientists for drone image analysis through AI and machine learning for ecological applications.  
+
 **Ecosystem transformation and carbon consequences** - Model the postfire ecosystem transformation trends and vulnerability in the North Central CASC region and impact on carbon storage under various management scenarios using remote sensing time series analysis integrated with known locations of ecosystem transformations and management interventions.  
+
 **Repeat fires on carbon recovery in forested systems in the western US**: Assess the impact of repeat fires (100 years of fire records) on carbon potential of forested ecoregions in the western US using GEDI, Sentinel-2, and MODIS.
+
 **Fire Impacts on Forests** - Model post fire carbon recovery using new spaceborne lidar remote sensing (GEDI) and UAS based canopy structure and composition with climate, topography, and field observations.
+
 **Postfire carbon potential and regeneration strategies in Southern Rockies**: Collects field inventory and UAS data across burned scars in the Southern Rockies and use structure from motion (SFM) technology and other statistical and modeling tools (R based) to map conifer seedlings and their spatial distribution and growth (carbon gain).
+
 **Twensday-03**: Lead a collaboratory effort to develop an early warning system to identify ecosystem transformation (forest to grass, scrub and shrublands) tipping points in the western US forest systems using earth observation data cube
 
 ## Postfire Carbon
