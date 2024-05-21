@@ -1,6 +1,7 @@
 # About me
 
 I am a trained remote sensing scientist who applies her remote sensing knowledge to learn ecosystem processes better at different spatio-temporal scales. 
+Find more about me at [CIRES-Earth Lab](https://cires.colorado.edu/people/nayani-ilangakoon)
 
 # Education
 - Ph.D. in Geosciences, Boise State University, Boise, ID, USA (2014-2020)
