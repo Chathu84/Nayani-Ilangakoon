@@ -1,4 +1,5 @@
 # About me
+![Nayani Ilangakoon](img/IMG_0967.jpg,"Nature is pretty")
 
 I am a trained remote sensing scientist who applies her remote sensing knowledge to learn ecosystem processes better at different spatio-temporal scales.  
 Find more about me at [CIRES-Earth Lab](https://cires.colorado.edu/people/nayani-ilangakoon)
