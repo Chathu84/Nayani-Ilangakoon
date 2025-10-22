@@ -3,9 +3,10 @@ layout: default
 title: Nayani Ilangakoon
 ---
 
-I am a trained remote sensing scientist who applies her remote sensing knowledge to learn ecosystem processes better at different spatio-temporal scales.  
-Find more about me at [CIRES-Earth Lab](https://cires.colorado.edu/people/nayani-ilangakoon)
-
+<style>
+:root {
+  --accent-color: #2a7a78;
+}
 # Education
 - Ph.D. in Geosciences, Boise State University, Boise, ID, USA (2014-2020)
 - MS in Geology, Bowling Green State University, Bowling Green, OH, USA (2012-2014)
