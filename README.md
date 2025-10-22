@@ -1,2 +1,2 @@
-# Nayani-Ilangakoon
-Nayani Ilangakoon, Nature Lover
+# Nayani Ilangakoon
+I’m a researcher passionate about how nature responds to changes—and how we, as humans, can help ecosystems recover through sustainable, science-guided action. With the creativity, skills, and intelligence to intentionally improve our shared world, and I’m committed to using those gifts responsibly. My work blends ecology, data, and practical stewardship to turn insight into impact. In my free time, I love traveling, cooking, and spending time with my family.
