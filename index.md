@@ -7,6 +7,8 @@ title: Nayani Ilangakoon
 :root {
   --accent-color: #2a7a78;
 }
+
+  
 # Education
 - Ph.D. in Geosciences, Boise State University, Boise, ID, USA (2014-2020)
 - MS in Geology, Bowling Green State University, Bowling Green, OH, USA (2012-2014)
