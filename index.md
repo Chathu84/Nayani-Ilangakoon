@@ -513,7 +513,7 @@ title: Nayani Ilangakoon
           >
             <h3>Open Forest Observatory</h3>
             <p>
-              I co-lead the Open Forest Observatory initiative to develop forest inventories using individual tree species and structural
+              In the Open Forest Observatory initiative we develop forest inventories using individual tree delineations and structural
               attributes derived from unpiloted aerial vehicle (UAV) imagery. Our team tests the transferability of individual tree detection
               models across diverse vegetation conditions and designs training modules that empower scientists to use AI and machine learning
               for ecological applications.
